@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Hand Of Sean (Demo)';
+    src: url('HandOfSeanDemo.eot');
+    src: url('HandOfSeanDemo.eot?#iefix') format('embedded-opentype'),
+        url('HandOfSeanDemo.woff2') format('woff2'),
+        url('HandOfSeanDemo.woff') format('woff'),
+        url('HandOfSeanDemo.ttf') format('truetype'),
+        url('HandOfSeanDemo.svg#HandOfSeanDemo') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

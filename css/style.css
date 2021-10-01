@@ -1,0 +1,361 @@
+body{margin:0px;padding:0px;overflow-x: hidden;}
+.top-strip{ background-color: #00a6f0;}
+.left_side_socialconnect
+    {
+        margin-top: 40px;
+    }
+.right_side_button button
+{
+    margin-left: 60%;
+    margin-top: 10px;
+    padding: 5px 10px 5px 10px; 
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: #ffba43;
+    font-size: 18px;
+}
+.right_side_button button a
+{   text-decoration: none;
+    color: black;}
+.menu ul li a
+{
+    text-decoration: none;
+    color: black;
+   
+}
+.menu ul li
+{   display: inline-block;
+    margin-top: 60px;
+    padding:0px 7px;
+    border-right:1px solid #ececec;
+    font-size: 16px;
+    
+}
+.mobileicon
+{
+    display: none;
+}
+.menu ul li:last-child
+{
+    border-right:none;
+}
+.menubg{background-image: url(../images/menu-bg.png);}
+.banner_image
+{
+    position: relative;
+}
+.banner_content
+{
+    position:absolute;top:20%;
+    left: 60%;
+}
+.banner_content h1
+{
+    font-size: 64px;
+    font-style:italic;
+    color: red;
+    outline: thin;
+}
+.banner_content button a
+{text-decoration: none;
+    color: black;
+}
+.banner_buttton
+{
+    margin-left:20%;
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-size:20px;
+    padding:7px;
+    border-radius: 10px;
+}
+.banner_buttton:last-child
+{
+    margin-left: 20px;
+}
+.classes_content
+{
+    padding-top: 40px;
+}
+
+
+
+.classes_content h1
+{
+    font-size: 42px;
+    padding-left: 100px;
+    border-bottom: 1px solid gray;
+}
+.preschoolout h6
+{
+    font-size: 18px;
+    padding-left: 0px;
+}
+.nurseryout h6
+{
+    font-size: 18px;
+    padding-left: 0px;
+}   
+.junierout h6
+{
+    font-size: 18px;
+    padding-left: 0px;
+}
+.seniorout h6
+{
+    font-size: 18px;
+    padding-left: 0px;
+}
+.daycareout h6
+{
+    font-size: 18px;
+    padding-left: 0px;
+}
+.preschoolout
+{
+    float: left;
+    width: 164px;
+    height: 164px;
+    margin-top: 70px;
+    border:5px dotted #8cc564;
+    border-radius:200px;
+    margin-left: 9px;
+}
+.preschoolin
+{
+    background-color: #8cc564;
+    width: 130px;
+    height: 130px;
+    margin-top: 12px;
+    border-radius: 100px;
+}
+.nurseryout{float: left;width: 164px;height: 164px;margin-top: 70px;border:5px dotted #f5483a;border-radius:200px;margin-left: 9px;}
+.nurseryin{background-color: #f5483a;width: 130px;height: 130px;margin-top: 12px;border-radius: 100px;}
+.junierout{float: left;width: 164px;height: 164px;margin-top: 70px;border:5px dotted #8371c7;border-radius:200px;margin-left: 9px;}
+.junierin{background-color: #8371c7;width: 130px;height: 130px;margin-top: 12px;border-radius: 100px;}
+.seniorout{float: left;width: 164px;height: 164px;margin-top: 70px;border:5px dotted #ffa73b;border-radius:200px;margin-left: 9px;}
+.seniorin{background-color: #ffa73b;width: 130px;height: 130px;margin-top: 12px;border-radius: 100px;}
+.daycareout{float: left;width: 164px;height: 164px;margin-top: 70px;border:5px dotted #ff3bda;border-radius:200px;margin-left: 9px;}
+.daycarein{background-color: #ff3bda;width: 130px;height: 130px;margin-top: 12px;border-radius: 100px;}
+.preschoolout:last-child{margin-left: none;}
+.preschoolout:first-child{margin-left:none ;}
+.typesofclasses ul li{display: inline-block;font-weight: bold;}
+.classesnames1{margin-left: 37px;margin-top: 30px;}
+.classesnames2{margin-left: 50px;margin-top: 30px;}
+.classesnames3{margin-left: 44px;margin-top: 30px;}
+.classesnames4{margin-left: 20px;margin-top: 30px;}
+.classesnames5{margin-left: 8px;margin-top: 30px;}
+.kidsloved{padding-left:20%;}
+.kidsloved iframe
+{
+    width: 400px;
+    height: 200px;
+    padding-bottom: 30px;padding-top: 30px;
+}
+.kidsloved h6
+{
+    font-size: 16px;
+}
+.noticeboard{position: relative;}
+.noticeboard_content{position:absolute; top:60px;left: 70px;}
+.advance_feature{margin-top: 40px;}
+.leftside_feature{padding-top:30px ;padding-bottom: 30px;}
+.rightside_feature{padding-top:30px ;padding-bottom: 30px;}
+.ourteacher_content{padding-left: 20%;padding-top: 10%;}
+.parents_con{padding-top: 30%;padding-left: 30%;}
+.parents_out{border-radius: 129px;border: 1px solid blueviolet;width: 220px;height: 220px;background-color: blueviolet;margin-top: 20px;margin-bottom: 30px;}
+.parents_img{border-radius: 100px;width: 196px;height: 200px;margin-top: 9px;}
+.parents_con_button{margin-left: 50px;}
+.parents_con_button button a{text-decoration: none;font-size: 20px;color: black;}
+.parents_con_button button{border-radius: 10px;background-color: yellow;}
+.ourteacher_container1{padding-bottom: 50px;}
+.ourteacher_container2{padding-top: 70px;}
+.children_admission a{font-size: 26px; border-radius: 15px;background-color: yellow;color: black;padding: 10px 15px;}
+.children_admission a{text-decoration: none;}
+.footer_headoffice{margin-top: 10%;}
+.footer_ourlocation{margin-top: 5%;}
+.ourbranch{margin-top: 30px;margin-bottom: 20px;}
+.footer_socialconnect{margin-top: 30px;}
+.footer_socialconnect span{font-size: 38px;font-weight:500;}
+.outloation ul li a{text-decoration: none;}
+.outloation ul li{display: inline-block;padding-left: 10px;}
+.footerboy_img_out{position: relative;}
+.footerboy_img{position: absolute;}
+.footer_content ul li{display: inline-block;padding-left: 30px;padding-top: 50px;}
+.footer_content ul li:last-child{padding-left: 60%;}
+@media (min-width: 992px) {
+	.container {
+		width: 960px;
+		max-width: 100%;
+	}
+}
+@media (min-width: 1200px) {
+	.container {
+		width: 1140px;
+		max-width: 100%;
+	}
+}
+@media (min-width:340px) and (max-width:767px)
+{
+    .container
+    {
+        width: 360px;
+        max-width: 100%;
+    }
+}
+@media (min-width:768px) and (max-width:991px)
+{
+    .container
+    {
+        width: 720px;
+        max-width: 100%;
+    }
+    .right_side_button button {
+        margin-left: 30%;
+        margin-top: 20px;
+        padding: 11px 14px 10px 10px;
+        margin-bottom: 16px;
+        border-radius: 16px;
+        background-color: #ffba43;
+        font-size: 18px;
+    }
+    .left_side_socialconnect
+    {
+        margin-top: 20px;
+    }
+    .sucess-logo
+    {
+        display: none;
+    }
+    #mobileicon{
+		display: block;
+    position: absolute;
+    right: 24px;
+    top: 75px;
+    background-color: rgb(9, 9, 73);
+    border: none;
+    padding: 5px;
+	}
+	.icon-bar {
+		display: block;
+		width: 22px;
+		height: 2px;
+		border-radius: 1px;
+		margin-top: 3px;
+		background-color: #fff;
+	}
+	.menu_ul{
+		background-color: #2458d3;
+	}
+	#menu {
+		display: none;
+	}
+	.logo{
+		float: none;
+	}
+	.menu{
+     float: none;
+	}
+	.menu_ul li{
+		float: none;
+		border-bottom: 1px solid #173d96;
+	}
+	.menu_ul li a{
+		color: #fff;
+	}
+
+    /*#mobileicon{
+		display: block;
+    position: absolute;
+    right: 24px;
+    top: 75px;
+    background-color: rgb(9, 9, 73);
+    border: none;
+    padding: 5px;
+	}
+	.icon-bar {
+		display: block;
+		width: 22px;
+		height: 2px;
+		border-radius: 1px;
+		margin-top: 3px;
+		background-color: #fff;
+	}
+	.menu_ul{
+		background-color: #2458d3;
+	}
+	#menu {
+		display: none;
+	}*/
+    .banner_content {
+        position: absolute;
+        top: 6%;
+        left: 59%;
+    }
+    .banner_content h1 {
+        font-size: 46px;
+        font-style: italic;
+        color: red;
+    }
+    .banner_content h6{    text-align: right;
+        font-size: 20px;
+        line-height: 7px;
+        margin-bottom: 25px;
+    }
+    .classes_content h1
+    {
+        font-size: 36px;
+        padding-left: 60px;
+        border-bottom: 1px solid gray;
+    }
+    .classes_content h6
+    {
+        font-size: 20px;
+        padding-left: 40px;
+    }
+    .left_side_plane
+    {
+        margin-top: 30px;
+    }
+    .right_side_plane
+    {
+        margin-top: 30px;
+    }
+    .rightplane
+    {
+        height:400px;
+        width: 300px;
+    }
+    .rightworld
+    {
+        height: 100px;
+    }
+    .kidsloved_cont
+    {
+        margin-top: 10%;
+    }
+    .kidsloved h1
+    {
+        padding-left: 20%;
+    }
+    .kidsloved iframe
+    {
+        /*width: 600px;
+        height: 300px;
+        padding-bottom: 30px;padding-top: 30px;*/
+        display: none;
+        
+    }
+    .kidsloved h6
+    {
+        font-size: 24px;
+        margin-left: 20px;
+    }
+    .noticeboard_content h1
+    {
+        
+            color: #8774ce;
+            padding-left: 35%;
+        
+    }
+}
